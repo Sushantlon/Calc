@@ -1,4 +1,4 @@
-# Calc
+# Calculator code 
 HTML CALCULATOR CODE 
 <!DOCTYPE html>
 <html lang="en">
